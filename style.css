@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blue;
+}
+
+.a1 {
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 300px;
+}
+
+i {
+    margin-left: 250px;
+}
+
+h3 {
+    margin-left: 80px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
